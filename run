@@ -1,0 +1,4 @@
+rm thread
+g++ -std=c++11 main.cpp thread.cpp -o thread
+./thread
+
